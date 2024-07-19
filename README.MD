@@ -16,7 +16,7 @@ This project is a web scraper that extracts information from the [Delta.nl](http
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/naitridoshi/Dutch-Web-Scraper.git
+git clone https://github.com/kevit-naitri-doshi/Dutch-Web-Scraper-Using-Playwright.git
 pip install -r requirements.txt
 ```
 

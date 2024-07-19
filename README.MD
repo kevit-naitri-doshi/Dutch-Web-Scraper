@@ -17,7 +17,6 @@ To get started with this project, clone the repository and install the required 
 
 ```bash
 git clone https://github.com/naitridoshi/Dutch-Web-Scraper.git
-cd delta-web-scraper
 pip install -r requirements.txt
 ```
 

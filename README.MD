@@ -1,10 +1,6 @@
-Sure, here's a sample README file for your project that uses Playwright to scrape a Dutch website providing Internet, Mobile, and Television solutions:
+# Dutch Website Web Scraper
 
----
-
-# Delta.nl Web Scraper
-
-This project is a web scraper that extracts information from the Delta.nl website, which provides Internet, Mobile, and Television solutions. The scraper is built using Playwright in Python, allowing for robust and efficient data extraction.
+This project is a web scraper that extracts information from the [Delta.nl](https://www.delta.nl/) website, which provides Internet, Mobile, and Television solutions. The scraper is built using Playwright in Python, allowing for robust and efficient data extraction.
 
 ## Table of Contents
 
@@ -20,7 +16,7 @@ This project is a web scraper that extracts information from the Delta.nl websit
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/delta-web-scraper.git
+git clone https://github.com/naitridoshi/Dutch-Web-Scraper.git
 cd delta-web-scraper
 pip install -r requirements.txt
 ```
@@ -38,13 +34,14 @@ python scraper.py
 ```
 
 3. **Output:**
-   - The scraped data will be saved into a CSV file named `delta_data.csv` in the project directory.
+
+   - The scraped data will be saved into a directory having text files and the file names as the page titles.
 
 ## Features
 
 - Scrapes information on Internet, Mobile, and Television solutions.
 - Utilizes Playwright for browser automation.
-- Saves the scraped data into a CSV file.
+- Saves the scraped data into a text file.
 - Handles dynamic content and JavaScript-rendered pages.
 
 ## Dependencies

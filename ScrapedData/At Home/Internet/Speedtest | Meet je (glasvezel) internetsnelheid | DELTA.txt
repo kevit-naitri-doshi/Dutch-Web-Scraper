@@ -1,0 +1,328 @@
+Speedtest: internetsnelheid testen
+
+Hoe snel is mijn internet? Test nu je huidige (glasvezel) internetsnelheid met de speedtest van DELTA.
+
+Zowel bekabeld als je wifi snelheid. Bekijk bijvoorbeeld je down- en uploadsnelheid.
+
+Doe de speedtest
+Waarom een speedtest doen handig is
+
+Het regelmatig uitvoeren van een speedtest kan je veel inzicht geven in de prestaties van je internetverbinding. Heb je last van langzaam internet? Dan is een speedtest een goede eerste stap om te achterhalen waar het probleem ligt. Met de DELTA speedtest kun je:
+
+De huidige snelheid van je internetverbinding meten.
+Vergelijken of de gemeten snelheid overeenkomt met de snelheid die je van DELTA verwacht.
+Problemen met je netwerk identificeren, zoals een trage verbinding of instabiliteit.
+Bepalen of je internetverbinding geschikt is voor activiteiten zoals streamen, gamen of videobellen.
+Over de speedtest
+
+Hoe snel is mijn internet? Met de speedtest van DELTA meet je eenvoudig je snelheid van je (glasvezel) internet. En weet je ook wat je download- en uploadsnelheid is.
+
+
+
+Tips voor de speedtest
+
+Wil je een zo zuiver mogelijk resultaat van de speedtest? Volg dan deze tips:
+
+Sluit je laptop of PC aan op je modem via een kabel. Een wifi-verbinding kan namelijk verstoord worden door externe factoren.
+Gebruik zoveel mogelijk een nieuwe moderne kabel wanneer je je apparaat verbindt met je modem.
+Doe de speedtest niet op oude apparaten.
+Sluit alle tabs, vensters, browsers en programma's.
+
+Last van langzaam internet?
+
+
+Tips voor wifi verbeteren
+
+We hebben tips voor je om je wifi te verbeteren.
+
+Bekijk de tips
+Extra wifi-apparatuur
+
+Ben je DELTA-klant?
+
+Dan kun je eenvoudig mesh wifi-punten bestellen. Met deze extra wifi-apparatuur versterk je je wifi in huis.
+
+Meer over mesh wifi
+Snelheid verhogen
+
+Heb je al internet van DELTA?
+
+In MijnDELTA kun je eenvoudig je internetsnelheid verhogen.
+
+Naar MijnDELTA
+Nog geen DELTA-klant?
+
+DELTA levert supersnel en stabiel (glasvezel)internet.
+
+Bij ons hoef je niet te kiezen tussen verschillende vaste pakketten voor internet, internet + tv, of alles-in-1. Met ons Flexpakket stel je eenvoudig je eigen pakket samen. Zo kies je wat jij écht nodig hebt!
+
+Meer over ons Flexpakket
+
+Wil je weten welke snelheid op jouw adres beschikbaar is?
+
+Vul je postcode en huisnummer in en wij laten dan de producten zien die we daar kunnen leveren.
+
+
+
+Minimale vereisten per internetsnelheid
+
+Bij DELTA bieden we verschillende abonnementssnelheden aan en op ons XGS-PON netwerk zelfs snelheden boven de 1 Gig! Om deze hoge snelheden te behalen zijn er wel wat minimale vereisten aan je apparatuur. Ook zijn de hoge snelheden vooralsnog alleen te behalen als je de apparaten bekabeld aansluit aan onze modem. Voer daarom de speedtest uit op een computer die bekabeld is aangesloten en maar gebruik van de speedtest.net desktop app. Hieronder vind je per snelheid de minimale vereisten voor je PC of laptop.
+
+ 
+
+Internetsnelheid
+
+	
+
+< 1 Gbps
+
+	
+
+1 Gbps
+
+	
+
+2 Gbps
+
+	
+
+4 of 5 Gbps
+
+	
+
+8 Gbps / Unlimited
+
+
+
+
+Kabel (tot 2 meter)
+
+	
+
+Cat5
+
+	
+
+Cat5e
+
+	
+
+Cat5e
+
+	
+
+Cat5e
+
+	
+
+Cat5e
+
+
+
+
+Kabel (2 tot 50 meter)
+
+	
+
+Cat5
+
+	
+
+Cat5e
+
+	
+
+Cat5e
+
+	
+
+Cat6
+
+	
+
+Cat6
+
+
+
+
+Aansluiting modem
+
+	
+
+1 Gbps ethernet
+
+	
+
+1 Gbps ethernet
+
+	
+
+2.5 Gbps ethernet
+
+	
+
+10 Gbps ethernet
+
+	
+
+10 Gbps ethernet
+
+
+
+
+Aansluiting afnemer
+
+	
+
+1 Gbps ethernet (IEEE 802.3ab of 1000BASE-T)
+
+	
+
+1 Gbps ethernet (IEEE 802.3ab of 1000BASE-T)
+
+	
+
+2.5 Gbps ethernet (IEEE 802.3bz, NBASE-T)
+
+	
+
+10 Gbps (IEEE 802.3an, 10GBASE-T)
+
+	
+
+10 Gbps (IEEE 802.3an, 10GBASE-T)
+
+
+
+
+Processor
+
+	
+
+5e generatie Intel Core/AMD Ryzen 4 of equivalent
+
+	
+
+5e generatie Intel Core/AMD Ryzen 4 of equivalent
+
+	
+
+9e generatie Intel Core/AMD Ryzen 5 of equivalent
+
+	
+
+9e generatie Intel Core met 6 kernen/AMD Ryzen 5 of equivalent met minimaal 6 kernen
+
+	
+
+9e generatie Intel Core met 6 kernen/AMD Ryzen 5 of equivalent met minimaal 6 kernen
+
+
+
+
+Werkgeheugen
+
+	
+
+8 GB
+
+	
+
+8 GB
+
+	
+
+8 GB
+
+	
+
+8 GB
+
+	
+
+8 GB
+
+
+
+
+Opslag
+
+	
+
+SATA SSD
+
+	
+
+SATA SSD
+
+	
+
+SATA SSD
+
+	
+
+NVME SSD
+
+	
+
+NVME SSD
+
+
+
+
+Besturingssysteem
+
+	
+
+Windows 10/Mac OS 10.6
+
+	
+
+Windows 10/Mac OS 10.6
+
+	
+
+Windows 10/Mac OS 10.6
+
+	
+
+Windows 10/Mac OS 10.6
+
+	
+
+Windows 10/Mac OS 10.6
+
+
+
+
+Testmethode
+
+	
+
+Losse Ookla Speedtest applicatie met Delta Fiber Server (Rotterdam)
+
+	
+
+Losse Ookla Speedtest applicatie met Delta Fiber Server (Rotterdam)
+
+	
+
+Losse Ookla Speedtest applicatie met Delta Fiber Server (Rotterdam)
+
+	
+
+Losse Ookla Speedtest applicatie met Delta Fiber Server (Rotterdam)
+
+	
+
+Losse Ookla Speedtest applicatie met Delta Fiber Server (Rotterdam)
+
+Veelgestelde vragen
+Hoe kan ik mijn internetsnelheid meten?
+Wat betekent download- en uploadsnelheid?
+Wat betekent Mpbs?
+Wat betekent ping?
+Wat betekent jitter?
+Kan ik ook mijn wifi-snelheid meten?
+Welke (glasvezel) internetsnelheden bieden jullie aan?
+Wat is wifi?

@@ -1,0 +1,53 @@
+4G Zakelijk Backup
+
+Werkt voor extra zekerheid
+
+ Oplossingen Internet 4G Zakelijk Backup
+Driekwart van de Nederlandse bedrijven loopt inkomsten mis door internetstoringen
+
+Bedrijven zijn steeds afhankelijker van stabiele internetverbindingen. Bijna allemaal werken we in de Cloud of bellen we over het internet. Onmisbaar dus in de dagelijkse bedrijfsvoering.
+
+
+Voor ondernemingen die geen risico’s willen lopen is er DELTA 4G Zakelijk Backup. Deze dienst neemt internetverkeer over als de vaste lijn onderbroken wordt, bijvoorbeeld bij een kabelbreuk. Omdat wij gebruik maken van radioverbindingen via de 4G-netwerken, blijft een internetverbinding intact en is continuïteit verzekerd.
+
+Aanvragen
+
+Levering
+
+DELTA 4G Zakelijk Backup is zorgeloos. Wij leveren de oplossing gebruiksklaar op en installeren alle apparatuur op locatie, met eventueel een 4G buitenunit op het dak of aan de gevel, en een router in de patch- of meterkast. Na oplevering staan we 7 dagen per week paraat voor ondersteuning. 
+
+4G Zakelijk Backup wordt gecombineerd met een glasvezelverbinding in een zogenaamde fail-over constructie. Gaat de glasvezel onverhoopt een keer offline, dan neemt de 4G Zakelijk verbinding het over. De 4G Backup verbinding wordt geleverd met een vast IP-adres en een fair-use policy van 100 GB per maand.
+
+Inhoud
+Apparatuur en diensten op basis van best effort:
+4G Outdoor unit
+Router
+Vast IP adres IPv4
+Incidenteel datagebruik
+Sitesurvey
+Installatie
+Beheer
+Support
+12 maanden contract, opzegtermijn 1 maand
+
+Niet inbegrepen: bekabeling tussen 4G router en router klant.
+
+Meer weten?
+
+Meer weten over de mogelijkheden van een DELTA Zakelijk 4G Backup router? Onze accountmanagers staan klaar om je vrijblijvend, persoonlijk advies te geven.
+
+Umbraco Forms requires a validation framework to run, please read documentation for posible options.
+See Umbraco Forms Documentation
+Contactgegevens
+Bedrijfsnaam
+Naam
+E-mail
+Telefoon
+Aansluitadres
+Postcode
+Huisnummer
+Toevoeging
+Straatnaam
+Plaats
+Betreft
+Ik heb interesse in:

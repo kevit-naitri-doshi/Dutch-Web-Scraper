@@ -1,0 +1,41 @@
+Gratis overstapservice
+
+Binnenkort naar DELTA Mobiel overstappen? Gebruik dan onze gratis overstapservice bij het bestellen. We helpen je bij het behouden van je eigen nummer, zonder dubbele kosten en met geen dag zonder abonnement.
+
+Contract nog niet afgelopen? Zet de Overstapwekker. Dan geven wij je een seintje zodra je kan overstappen.
+
+ Mobiel Overstapwekker
+Umbraco Forms requires a validation framework to run, please read documentation for posible options.
+See Umbraco Forms Documentation
+Einddatum huidige contract *
+Voorbeelddatum: 31-12-2021
+Huidige provider
+E-mailadres *
+Mobiele telefoonnummer *
+Zonder tekens. Voorbeeld: 0612345678
+Postcode
+Zonder spatie. Voorbeeld: 1234AB
+Huisnummer
+Huisnummer toevoeging
+Heb je al internet van DELTA?
+Ja
+Nee
+Voorwaarden *
+Hiermee ga je akkoord met het verwerken van jouw persoonsgegevens voor communicatie- en promotiedoeleinden door DELTA. DELTA gaat zorgvuldig met jouw gegevens om en zal jouw gegevens niet aan derden ter beschikking stellen.
+Internet én mobiel bij DELTA?
+
+Met DELTA Mobiel kun je altijd en overal bellen en krijg je snel en stabiele internet via het mobiele netwerk van Odido. Heb je ook een internetabonnement van DELTA op hetzelfde adres? Dan ontvang je elke maand extra veel extra's.
+
+Elke maand 5,- extra korting op je internet thuis
+Dubbele data
+Onbeperkt bellen
+Extra tv-pakket inclusief o.a. ESPN Compleet (t.w.v. 12,- p/mnd) en Nick Jr.
+
+ 
+
+Goed om te weten over nummerbehoud:
+Nummerbehoud kunnen we alleen voor Nederlandse nummers organiseren
+Je kunt nummerbehoud aanvragen vanaf 120 dagen voordat je abonnement afloopt
+We checken bij je huidige provider wanneer je kosteloos kunt overstappen
+Je kunt de ingangsdatum wijzigen naar een datum die jou het beste uitkomt
+Op de dag dat we je nummer overzetten, mag je nummer niet geblokkeerd zijn.

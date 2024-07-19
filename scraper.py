@@ -1,6 +1,7 @@
 from playwright.sync_api import *
 from playwright_stealth import stealth_sync
 import time
+from config import *
 
 with sync_playwright() as playwright:
     extra_headers = {
@@ -31,14 +32,10 @@ with sync_playwright() as playwright:
     # close_btn.click()
     
     # main_menu=['At Home','For Companies']
-    original_url='https://www.delta.nl'
-    main_menu_urls={'At Home':'','For Companies':'zakelijk'}
+   
 
     # core_menu=['Internet','Television','Mobile']
-    core_menu=[]
-    main_menu_index_last=[4,5]
-    service_page_selector=['homepage','homepagezakelijk']
-    service_page_index=[4,3]
+   
 
     # title=page.locator(selector='head > title').text_content()
     # whole=page.locator(selector='.base').all_inner_texts()
